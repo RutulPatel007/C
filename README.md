@@ -2,6 +2,7 @@
   This assignment is to understand how to 
   declare and manipulate structures 
   including an array of structures.
+  
   The input and output in this program is 
   done by program using file operations. 
   This program uses basic file io. 
@@ -9,6 +10,7 @@
   1.) Input File(input_file.txt)
   
   2.) Required C Code file(structures.c)
+  
   Click on the links given above to 
   download required files.   
 # Functions in structures.c :
