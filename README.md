@@ -14,12 +14,7 @@
   Click on the links given above to 
   download required files.   
 # Functions in structures.c :
-  sorting() function is used to sort the 
-  array of structures based on the id's of 
-  students. In this code selection sort is 
-  used to sort the array. This works by 
-  selecting the relatively smaller element  
-  and replacing it larger one.      
+  sorting() function is used to sort the array of structures based on the id's of students. In this code selection sort is used to sort the array. This works by selecting the   relatively smaller element and replacing it larger one.      
 # How to implement assignment:
   1.) Download above given files in same 
       directory.
