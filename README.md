@@ -23,6 +23,7 @@
       where you have saved that files.
       
   3.) Write below given commands:
+  
       1.) gcc structures.c
       
       2.) ./a.out
