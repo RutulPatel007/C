@@ -18,10 +18,15 @@
 # How to implement assignment:
   1.) Download above given files in same 
       directory.
+      
   2.) Open terminal and go to the directory 
       where you have saved that files.
+      
   3.) Write below given commands:
       1.) gcc structures.c
+      
       2.) ./a.out
+      
       3.) Code is executed and to see output open the output_file.txt or use command cat output.txt 
+      
 # Patel Rutul Satishkumar (IMT2022021).
